@@ -1,0 +1,9 @@
+# FIXED
+dma_setup.obj: ../dma_setup.c
+dma_setup.obj: ../dma_setup.h
+dma_setup.obj: ../data_types.h
+dma_setup.obj: ../dma_registers.h
+dma_setup.obj: ../i2s_registers.h
+dma_setup.obj: ../register_cpu.h
+dma_setup.obj: ../register_system.h
+dma_setup.obj: ../global_constants.h
